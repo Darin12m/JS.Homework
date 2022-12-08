@@ -21,7 +21,8 @@ if (!Number.isNaN(parsedInput)) {
         case 2:
             alert("Tiger");
             break;
-
+            
+        case:3
             alert("Rabbit");
             break;
 
